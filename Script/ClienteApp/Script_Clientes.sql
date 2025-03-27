@@ -1,0 +1,12 @@
+CREATE DATABASE ClienteDB;
+
+USE ClienteDB;
+
+CREATE TABLE Clientes (
+	Id INT PRIMARY KEY IDENTITY(1,1),
+	Nombre VARCHAR(100),
+	Correo VARCHAR(100),
+	FechaRegistro DATETIME
+);
+
+--SELECT * FROM Clientes
