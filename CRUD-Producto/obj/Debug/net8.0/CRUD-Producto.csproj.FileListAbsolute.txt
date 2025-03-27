@@ -1,0 +1,15 @@
+C:\Users\Roberto05Alv\source\repos\CRUD-Producto\bin\Debug\net8.0\CRUD-Producto.exe
+C:\Users\Roberto05Alv\source\repos\CRUD-Producto\bin\Debug\net8.0\CRUD-Producto.deps.json
+C:\Users\Roberto05Alv\source\repos\CRUD-Producto\bin\Debug\net8.0\CRUD-Producto.runtimeconfig.json
+C:\Users\Roberto05Alv\source\repos\CRUD-Producto\bin\Debug\net8.0\CRUD-Producto.dll
+C:\Users\Roberto05Alv\source\repos\CRUD-Producto\bin\Debug\net8.0\CRUD-Producto.pdb
+C:\Users\Roberto05Alv\source\repos\CRUD-Producto\obj\Debug\net8.0\CRUD-Producto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto05Alv\source\repos\CRUD-Producto\obj\Debug\net8.0\CRUD-Producto.AssemblyInfoInputs.cache
+C:\Users\Roberto05Alv\source\repos\CRUD-Producto\obj\Debug\net8.0\CRUD-Producto.AssemblyInfo.cs
+C:\Users\Roberto05Alv\source\repos\CRUD-Producto\obj\Debug\net8.0\CRUD-Producto.csproj.CoreCompileInputs.cache
+C:\Users\Roberto05Alv\source\repos\CRUD-Producto\obj\Debug\net8.0\CRUD-Producto.sourcelink.json
+C:\Users\Roberto05Alv\source\repos\CRUD-Producto\obj\Debug\net8.0\CRUD-Producto.dll
+C:\Users\Roberto05Alv\source\repos\CRUD-Producto\obj\Debug\net8.0\refint\CRUD-Producto.dll
+C:\Users\Roberto05Alv\source\repos\CRUD-Producto\obj\Debug\net8.0\CRUD-Producto.pdb
+C:\Users\Roberto05Alv\source\repos\CRUD-Producto\obj\Debug\net8.0\CRUD-Producto.genruntimeconfig.cache
+C:\Users\Roberto05Alv\source\repos\CRUD-Producto\obj\Debug\net8.0\ref\CRUD-Producto.dll
