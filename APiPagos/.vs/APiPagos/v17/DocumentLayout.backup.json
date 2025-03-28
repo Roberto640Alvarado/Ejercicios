@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roberto05Alv\\source\\repos\\APiPagos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roberto05Alv\\source\\repos\\APiPagos\\Migrations\\20250328154446_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250328154446_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3ED444B-4968-4ADE-B9F7-476E2E442324}|APiPagos.csproj|c:\\users\\roberto05alv\\source\\repos\\apipagos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3ED444B-4968-4ADE-B9F7-476E2E442324}|APiPagos.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roberto05Alv\\source\\repos\\APiPagos\\Migrations\\20250328154221_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250328154221_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3ED444B-4968-4ADE-B9F7-476E2E442324}|APiPagos.csproj|c:\\users\\roberto05alv\\source\\repos\\apipagos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3ED444B-4968-4ADE-B9F7-476E2E442324}|APiPagos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3ED444B-4968-4ADE-B9F7-476E2E442324}|APiPagos.csproj|c:\\users\\roberto05alv\\source\\repos\\apipagos\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3ED444B-4968-4ADE-B9F7-476E2E442324}|APiPagos.csproj|solutionrelative:controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3ED444B-4968-4ADE-B9F7-476E2E442324}|APiPagos.csproj|c:\\users\\roberto05alv\\source\\repos\\apipagos\\apipagos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3ED444B-4968-4ADE-B9F7-476E2E442324}|APiPagos.csproj|solutionrelative:apipagos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250328154446_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto05Alv\\source\\repos\\APiPagos\\Migrations\\20250328154446_Inicial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250328154446_Inicial.cs",
+              "ToolTip": "C:\\Users\\Roberto05Alv\\source\\repos\\APiPagos\\Migrations\\20250328154446_Inicial.cs",
+              "RelativeToolTip": "Migrations\\20250328154446_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T15:44:46.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250328154221_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto05Alv\\source\\repos\\APiPagos\\Migrations\\20250328154221_Inicial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250328154221_Inicial.cs",
+              "ToolTip": "C:\\Users\\Roberto05Alv\\source\\repos\\APiPagos\\Migrations\\20250328154221_Inicial.cs",
+              "RelativeToolTip": "Migrations\\20250328154221_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T15:42:21.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Roberto05Alv\\source\\repos\\APiPagos\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Roberto05Alv\\source\\repos\\APiPagos\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T15:41:06.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto05Alv\\source\\repos\\APiPagos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Roberto05Alv\\source\\repos\\APiPagos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T15:32:31.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PagosController.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto05Alv\\source\\repos\\APiPagos\\Controllers\\PagosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PagosController.cs",
+              "ToolTip": "C:\\Users\\Roberto05Alv\\source\\repos\\APiPagos\\Controllers\\PagosController.cs",
+              "RelativeToolTip": "Controllers\\PagosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T15:00:42.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "APiPagos",
+              "DocumentMoniker": "C:\\Users\\Roberto05Alv\\source\\repos\\APiPagos\\APiPagos.csproj",
+              "RelativeDocumentMoniker": "APiPagos.csproj",
+              "ToolTip": "C:\\Users\\Roberto05Alv\\source\\repos\\APiPagos\\APiPagos.csproj",
+              "RelativeToolTip": "APiPagos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-28T14:36:33.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
